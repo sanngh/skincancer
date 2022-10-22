@@ -16,12 +16,12 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 : Model has initial accuracy is 87% and validation is 78%
-- Conclusion 2 Validation loss is 
+## Conclusions with 20 epochs
+- Conclusion 1 : Model has initial accuracy is 89.51% and validation is 82.77%
+- Conclusion 2 Validation loss is 0.6037
 - Conclusion 3 Model was overfit, so data_augmentation
 - Conclusion 4 rebalance was found and up scaling is used
-- Conclusion 5 final accuracy is 
+- Conclusion 5 final accuracy is 0.8040 and validation is 0.7661
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
